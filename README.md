@@ -1,4 +1,15 @@
 ## Hi there 👋
+I'm Barna, frontend developer at Cavity Eye and Computer Engineering student at the University of Óbuda.
+
+Languages I've worked with so far:
+| Rank | Languages |
+|-----:|-----------|
+|     1| Dart      |
+|     2| C#        |
+|     3| Java      |
+|     4| SQL       |
+|     5| JavaScript|
+|     6| HTML      |
 
 <!--
 **barnabaskanyo/barnabaskanyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
